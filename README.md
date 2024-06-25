@@ -1,4 +1,3 @@
-![The Lewis and Clark Journals](./[https://www.google.com/url?sa=i&url=https%3A%2F%2Fkids.nationalgeographic.com%2Fhistory%2Farticle%2Fsacagawea&psig=AOvVaw2_4bxZme-KZX2ULV6Sp2Rg&ust=1719375509730000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiShIfz9YYDFQAAAAAdAAAAABAE])
 # Analyzing Historical Text in Python: Sentiments Towards Native Americans Exhibited in the Lewis and Clark Expedition Journals
 ## Elle Morris-Benedict
 ## Abstract:
